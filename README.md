@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 [![Oliad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliad-R&show_icons=true&theme=catppuccin_mocha)](https://github.com/Oliad-R?tab=repositories)
 <!-- -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliad-R&layout=donut&theme=catppuccin_mocha)](https://github.com/Oliad-R?tab=repositories)
